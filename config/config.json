@@ -1,0 +1,23 @@
+{
+    "User": {
+        "username": "root",
+        "password": "Dhileep@1234",
+        "database": "product_management",
+        "host": "localhost",
+        "dialect": "mysql"
+    },
+    "Product": {
+        "username": "root",
+        "password": "Dhileep@1234",
+        "database": "product_management",
+        "host": "localhost",
+        "dialect": "mysql"
+    },
+    "Category": {
+        "username": "root",
+        "password": "Dhileep@1234",
+        "database": "product_management",
+        "host": "localhost",
+        "dialect": "mysql"
+    }
+}
