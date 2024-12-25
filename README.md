@@ -30,7 +30,7 @@ Environment Variable **dotenv** version of **16.4.7**
 **In this product management task components comprehension create Registration and Login Routes With Authenication**
 **Features:**
  **Authentication:**
- Use JSON Web Tokens (JWT) for authentication.
+ Use JSON Web Tokens (JWT) for authentication.**JWT_SECRET_KEY** JWT_SECRET=470ff8c244542723a8b69f4851a1d1b990ab904a16bdfd90f4134bb057e21eba
  Protect all routes except for registration and login.
 
  **Endpoints:**
